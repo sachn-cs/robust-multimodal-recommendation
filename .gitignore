@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+.env
+venv/
+.venv/
+data/raw/
+data/processed/
+data/features/
+*.pt
+*.pth
+checkpoints/
+results/
+.pytest_cache/
+.coverage
