@@ -42,8 +42,8 @@ dev = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/sachin/rmr"
-Repository = "https://github.com/sachin/rmr"
+Homepage = "https://github.com/sachn-cs/robust-multimodal-recommendation"
+Repository = "https://github.com/sachn-cs/robust-multimodal-recommendation"
 
 [tool.setuptools.packages.find]
 where = ["."]
